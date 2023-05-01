@@ -1,25 +1,25 @@
 {
   "data": [
     {
-      "stats": "245k",
+      "stats": "245",
       "title": "Viajes",
       "color": "primary",
       "icon": "TrendingUp"
     },
     {
-      "stats": "12.5k",
+      "stats": "521",
       "title": "Pasajeros",
       "color": "success",
       "icon": "AccountOutline"
     },
     {
-      "stats": "1.54k",
+      "stats": "34",
       "color": "warning",
       "title": "Conductores",
       "icon": "CellphoneLink"
     },
     {
-      "stats": "$88k",
+      "stats": "No registrados",
       "color": "info",
       "title": "Ingresos",
       "icon": "CurrencyUsd"
