@@ -1,25 +1,29 @@
-[
+{
+  data: [
   {
     stats: '245k',
     title: 'Viajes',
     color: 'primary',
-    icon: <TrendingUp sx={{ fontSize: '1.75rem' }} />
+    icon: 'TrendingUp'
   },
   {
     stats: '12.5k',
     title: 'Pasajeros',
     color: 'success',
-    icon: <AccountOutline sx={{ fontSize: '1.75rem' }} />
+    icon: 'AccountOutline'
   },
   {
     stats: '1.54k',
     color: 'warning',
     title: 'Conductores',
-    icon: <CellphoneLink sx={{ fontSize: '1.75rem' }} />
+    icon: 'CellphoneLink'
   },
   {
     stats: '$88k',
     color: 'info',
     title: 'Ingresos',
-    icon: <CurrencyUsd sx={{ fontSize: '1.75rem' }} />
-  }]
+    icon: 'CurrencyUsd'
+  }
+]
+ 
+}
