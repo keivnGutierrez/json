@@ -1,29 +1,28 @@
 {
-  data: [
-  {
-    stats: '245k',
-    title: 'Viajes',
-    color: 'primary',
-    icon: 'TrendingUp'
-  },
-  {
-    stats: '12.5k',
-    title: 'Pasajeros',
-    color: 'success',
-    icon: 'AccountOutline'
-  },
-  {
-    stats: '1.54k',
-    color: 'warning',
-    title: 'Conductores',
-    icon: 'CellphoneLink'
-  },
-  {
-    stats: '$88k',
-    color: 'info',
-    title: 'Ingresos',
-    icon: 'CurrencyUsd'
-  }
-]
- 
+  "data": [
+    {
+      "stats": "245k",
+      "title": "Viajes",
+      "color": "primary",
+      "icon": "TrendingUp"
+    },
+    {
+      "stats": "12.5k",
+      "title": "Pasajeros",
+      "color": "success",
+      "icon": "AccountOutline"
+    },
+    {
+      "stats": "1.54k",
+      "color": "warning",
+      "title": "Conductores",
+      "icon": "CellphoneLink"
+    },
+    {
+      "stats": "$88k",
+      "color": "info",
+      "title": "Ingresos",
+      "icon": "CurrencyUsd"
+    }
+  ]
 }
