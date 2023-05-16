@@ -1,19 +1,19 @@
 {
   "data": [
     {
-      "stats": "2450",
+      "stats": "0",
       "title": "Viajes",
       "color": "primary",
       "icon": "TrendingUp"
     },
     {
-      "stats": "521",
+      "stats": "0",
       "title": "Pasajeros",
       "color": "success",
       "icon": "AccountOutline"
     },
     {
-      "stats": "34",
+      "stats": "0",
       "color": "warning",
       "title": "Conductores",
       "icon": "CellphoneLink"
