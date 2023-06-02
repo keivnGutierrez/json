@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "stats": "2450",
+      "stats": "8450",
       "title": "Viajes",
       "color": "primary",
       "icon": "TrendingUp"
     },
     {
-      "stats": "521",
+      "stats": "NAN",
       "title": "Pasajeros",
       "color": "success",
       "icon": "AccountOutline"
